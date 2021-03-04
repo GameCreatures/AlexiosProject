@@ -71,15 +71,15 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LitOffset: 0
+    - _LitOffset: 0.13
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _OutlineThickness: 0.06
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
-    - _SpecPower: 8
-    - _SpecScale: 0.07
+    - _SpecPower: 4
+    - _SpecScale: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
